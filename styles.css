@@ -21,7 +21,7 @@ header {
 .headertop a {
     margin-left: 10px;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #C6C9CE;
     text-decoration: none;
 }
 
@@ -29,4 +29,48 @@ header {
     font-size: 24px;
     color: #f9faf8;
 }
+
+.headerbottom {
+    display: flex;
+    align-items: center;
+    padding: 100px 200px;
+}
+
+.headerbottom h1 {
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.headerbottom p {
+    font-size: 18px;
+}
+
+.headerbtmleft {
+    width: 450px;
+    color: #C6C9CE;
+}
+
+.signup {
+    background-color: rgb(45, 129, 255);
+    border: none;
+    padding: 8px 35px;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.rightsquare {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 525px;
+    height: 250px;
+    background-color:#6C747D;
+    margin-left: 70px;
+    color: #C6C9CE;
+}
+
+
 
