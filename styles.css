@@ -146,10 +146,30 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 100px;
-    width: 1000px;
-    height: 175px;
+    width: 1050px;
+    height: 150px;
     background-color: #3B81F6;
     border-radius: 10px;
+}
+
+.sectboxleft h3 {
+    font-size: 22px;
+    color: #FFFFFF;
+}
+
+.sectboxleft p {
+    font-size: 18px;
+    color: #D4DDEC;
+}
+
+.sectbutton {
+    padding: 6px 40px;
+    background-color: #3B81F6;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 
