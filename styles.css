@@ -72,5 +72,45 @@ header {
     color: #C6C9CE;
 }
 
+.sectiontwo {
+    margin: 50px 0;
+}
+
+.sectiontwocontainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+}
+
+.sectiontwo h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.box {
+    width: 175px;
+    height: 175px;
+    border: 4px solid #3B81F6;
+    border-radius: 20px;
+}
+
+.boxtext {
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    color: #9FA4AC;
+}
+
 
 
