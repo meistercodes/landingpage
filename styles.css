@@ -112,5 +112,27 @@ header {
     color: #9FA4AC;
 }
 
+.sectionthree {
+    background-color: #e5e7eb;
+    padding: 100px 0;
+}
+
+.secthreecontainer {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.quotetext {
+    font-size: 32px;
+    color: #1f2937;
+    font-weight: 300;
+}
+
+.attr {
+    text-align: right;
+    font-weight: bold;
+    font-size: 26px;
+}
+
 
 
