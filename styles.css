@@ -172,6 +172,19 @@ header {
     font-weight: bold;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 32px 0;
+}
+
+footer p {
+    color: #D4D7D9;
+    font-size: 18px;
+}
+
 
 
 
